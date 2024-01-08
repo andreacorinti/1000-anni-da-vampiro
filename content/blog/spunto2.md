@@ -1,7 +1,7 @@
 ---
 title: Berengario
 date: 1176-09-03
-draft: true
+draft: false
 ---
 
 ☒ _Tiro: 3 (D10 = 5 D6 = 2)_

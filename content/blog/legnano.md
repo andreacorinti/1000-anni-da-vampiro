@@ -1,7 +1,7 @@
 ---
 title: L'Abbraccio
 date: 1176-06-04
-draft: true
+draft: false
 ---
 
 ![Stemma Rusca](https://upload.wikimedia.org/wikipedia/commons/a/ae/Rusconi_%28Rivisitazione_del_2016%29.jpg)

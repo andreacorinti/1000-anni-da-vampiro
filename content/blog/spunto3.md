@@ -1,7 +1,7 @@
 ---
 title: Un secolo
 date: 1276-06-10
-draft: true
+draft: false
 ---
 
 ☒ _Tiro: 7 (D10 = 9 D6 = 2)_

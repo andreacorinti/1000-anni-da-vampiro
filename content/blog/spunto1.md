@@ -1,7 +1,7 @@
 ---
 title: La Fascia d'Isabella
 date: 1176-06-10
-draft: true
+draft: false
 ---
 
 ☒ _Tiro: 2 (D10 = 4 D6 = 2)_
