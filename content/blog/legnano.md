@@ -31,7 +31,3 @@ Ma come Ã¨ possibile? Un viaggio che normalmente richiederebbe una giornata si Ã
 La cicatrice sul mio petto continua a sanguinare... mentre la sete aumenta, temo di aver venduto la mia anima.
 
 Eppure, darei tutto pur di rivederla.
-
-
-
-~~test ricordo barrato~~

@@ -8,7 +8,7 @@ draft: true
 
 ## Tavola 3, spunto 1
 
-> _Una persona cara scopre la tua condizione e cerca di aiutarti. Crea una risorsa che rappresenti il suo aiuto. Crea un mortale, se non ne hai disponibili._
+> Una persona cara scopre la tua condizione e cerca di aiutarti. Crea una risorsa che rappresenti il suo aiuto. Crea un mortale, se non ne hai disponibili.
 
 Dal mio rientro a casa, ho fatto del mio meglio per nascondere la mia nuova natura...ma è bastato poco prima che Isabella capisse tutto.
 

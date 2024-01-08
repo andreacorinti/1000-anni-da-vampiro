@@ -10,26 +10,26 @@ eleventyNavigation:
 ## Ricordi
 
 ### I Ricordo 
-* Sono Gregorio Rusca da Como, cavaliere dell'Imperatore Barbarossa.
-*
+* Cento anni dopo la mia trasformazione, ho rivisto Eleonora.
+* 
 * 
 
 ### II Ricordo
 * Il matrimonio con Isabella. È stato un evento più politico che romantico, ma comunque un ricordo felice.
-*
+* La nascita di Giovanni: il momento più bello della mia vita.
 *
 ### III Ricordo
-* La nascita di Giovanni: il momento più bello della mia vita.
+* 
 *
 *
 ### IV Ricordo
-* La disfatta della Battaglia di Legnano, che mi è costata la prigonia a Milano, nel carcere di Malastalla.
+* 
 *
 *
 ### V Ricordo
 * L'evasione da Malastalla grazie all'incontro con Eleonora, la creatura della notte che mi ha reso un vampiro.
-*
-*
+* Isabella ha scoperto la mia condizione di vampiro.
+* Ho incontrato Berengario, un trovatore che sembra saperne molto sui vampiri.
 
 ## Abilità
 
@@ -41,25 +41,47 @@ eleventyNavigation:
 
 * **Castel Carnasino**: la mia casa. Al momento ci vivono Isabella e Giovanni, assieme a vari parenti e servitori.
 * **Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.
-* **Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).
+* ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
+* **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
 * **Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.
+* **Stirpe di Servitori**: i discendenti della mia vecchia famiglia mortale, i Rusca.
 
 ## Personaggi
 
-* **Isabella Odescalchi in Rusca**: mia moglie. Nonostante il nostro sia stato un matrimonio combinato, le voglio molto bene.
-* **Giovanni Rusca**: mio figlio, nato nel 1166. Somiglia a sua madre, e sicuramente diventerà un degno erede.
-* **Bernardo Rusca**: mio padre, podestà di Como.
-* **Berengario**: un mio servitore che conosce la mia condizione vampirica. Credo sia in qualche modo collegato ad Eleonora.
+* **Loterio Rusca**: capo della mia progenie mortale, nato nel 1225.
+* ~~**Isabella Odescalchi in Rusca**: mia moglie. Nonostante il nostro sia stato un matrimonio combinato, le voglio molto bene.~~
+* ~~**Giovanni Rusca**: mio figlio, nato nel 1166. Somiglia a sua madre, e sicuramente diventerà un degno erede.~~
+* ~~**Bernardo Rusca**: mio padre, podestà di Como.~~
+* ~~**Berengario**: un mio servitore che conosce la mia condizione vampirica. Credo sia in qualche modo collegato ad Eleonora.~~
 
-## Immortale
+### Immortali
 
-Si fa chiamare Eleonora. La donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte  
+* **Eleonora**. La donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.  
 
 ## Marchi
 
 * Una cicatrice a forma di croce perennemente sanguinante sul petto: devo tenerla fasciata e cambiare periodicamente le garze.
 
 ## Diario
+
+
+### I Ricordo 
+* Sono Gregorio Rusca da Como, cavaliere dell'Imperatore Barbarossa. 
+* La disfatta della Battaglia di Legnano, che mi è costata la prigonia a Milano, nel carcere di Malastalla.
+* 
+
+### II Ricordo
+* 
+*
+*
+### III Ricordo
+* 
+*
+*
+### IV Ricordo
+* 
+*
+*
 
 ![gregorio-rusca](/img/gregorio-rusca.jpeg)
 _nota: immagine generata con l'IA_

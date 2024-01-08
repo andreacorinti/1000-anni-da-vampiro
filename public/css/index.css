@@ -303,3 +303,14 @@ img {
 	max-width: 100%;
 	height: auto;
   }
+
+  /* blockquote */
+
+  blockquote{
+	padding: 8px;
+	background-color: #410909;
+	border-top: 1px solid #560c0c;
+	border-bottom: 1px solid #560c0c;
+	margin: 5px;
+	font-style: italic;
+  }

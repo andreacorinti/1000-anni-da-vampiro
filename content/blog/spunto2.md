@@ -1,6 +1,6 @@
 ---
-title: Spunto 2
-date: 1176-07-28
+title: Berengario
+date: 1176-09-03
 draft: true
 ---
 
@@ -8,7 +8,7 @@ draft: true
 
 ## Tavola 6, spunto 1
 
-> _Un mortale inizia a servirti. Chi è? Cosa lo attrae nella tua orbita? Crea un nuovo Mortale.
+> Un mortale inizia a servirti. Chi è? Cosa lo attrae nella tua orbita? Crea un nuovo Mortale.
 
 Nel crepuscolo, Isabella mi ha guidato verso la presenza di un ospite singolare: Berengario, un trovatore proveniente da Basilea.
 
