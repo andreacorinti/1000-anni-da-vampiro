@@ -35,7 +35,6 @@
 	}
 }
 
-
 /* Global stylesheet */
 * {
 	box-sizing: border-box;
@@ -97,7 +96,7 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border-bottom: 1px solid var(--color-gray-20);
 }
 header:after {
 	content: "";
@@ -296,4 +295,11 @@ h2 + .header-anchor {
 	text-align: left;
 	background-color: var(--rosso2);
 	color: white;
+  }
+
+  /* Immagini generiche */
+
+img {
+	max-width: 100%;
+	height: auto;
   }
