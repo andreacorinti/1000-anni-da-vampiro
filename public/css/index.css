@@ -268,3 +268,32 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+/* Tabelle */
+
+#timeline {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  #timeline td,
+  #timeline th {
+	border: 1px solid rgb(95, 95, 95);
+	padding: 8px;
+  }
+  
+  #timeline tr:nth-child(even) {
+	background-color: #1a1a1a;
+  }
+  
+  #timeline tr:hover {
+	background-color: black;
+  }
+  
+  #timeline th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: var(--rosso2);
+	color: white;
+  }
