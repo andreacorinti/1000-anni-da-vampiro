@@ -19,8 +19,8 @@ eleventyNavigation:
 * La nascita di Giovanni: il momento più bello della mia vita.
 *
 ### III Ricordo
-* Il vescovo Giovanni degli Avvocati è un Cacciatore. Nel 1279 ha fatto irruzione nella mia cripta.
-* Nel 1291, con la morte di Loterio, il vescovo conquista Como. Decido di abbandonare la città.
+* Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.
+*
 *
 ### IV Ricordo
 * 
@@ -44,13 +44,14 @@ eleventyNavigation:
 * ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
 * **Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.
-* **Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca.
+* ~~**Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca. ~~
 * ~~**Castel Carnasino**: la mia casa, il mio rifugio.~~
 
 ## Personaggi
 
+* **Simone Boccanegra**: Il mio ghoul, Doge di Genova.
 * ~~**Loterio Rusca**: capo della mia progenie mortale, nato nel 1225.~~
-* **Giovanni degli Avvocati**: Vescovo di Como, rivale politico di Loterio e Cacciatore di Vampiri.
+* ~~**Giovanni degli Avvocati**: Vescovo di Como, rivale politico di Loterio e Cacciatore di Vampiri.~~
 * ~~**Isabella Odescalchi in Rusca**: mia moglie. Nonostante il nostro sia stato un matrimonio combinato, le voglio molto bene.~~
 * ~~**Giovanni Rusca**: mio figlio, nato nel 1166. Somiglia a sua madre, e sicuramente diventerà un degno erede.~~
 * ~~**Bernardo Rusca**: mio padre, podestà di Como.~~
@@ -73,8 +74,8 @@ eleventyNavigation:
 * 
 
 ### II Ricordo
-* 
-*
+* Il vescovo Giovanni degli Avvocati è un Cacciatore. Nel 1279 ha fatto irruzione nella mia cripta.
+* Nel 1291, con la morte di Loterio, il vescovo conquista Como. Decido di abbandonare la città.
 *
 ### III Ricordo
 * 
