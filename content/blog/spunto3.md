@@ -30,4 +30,8 @@ Durante gli ultimi cento anni, ho spesso ceduto alla follia. Quando ho visto Isa
 
 Loterio, che si occupa della gestione della famiglia, me ne aveva parlato: un francese ha deciso di comprare le nostre vecchie terre ad Alserio.
 
-(wip)
+Sul momento, gli ho dato la mia approvazione senza pensarci troppo, posto che questo assurdo gioco di potere mi ha stancato da un pezzo. 
+
+Negli ultimi anni, ho utilizzato i miei poteri per stabilire una Signoria guidata dalla mia famiglia, e i nostri interessi oramai sono prevalentemente concentrati in città. 
+
+L'unico problema per Loterio è rappresentato dal vescovo Giovanni degli Avvocati, che temo abbia almeno parzialmente individuato la mia influenza diabolica. 
