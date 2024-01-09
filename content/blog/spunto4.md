@@ -12,6 +12,8 @@ draft: false
 
 Finalmente, i miei sospetti hanno trovato conferma:
 
+![giovanni-degli-avvocati](/img/giovanni-degli-avvocati.jpeg)
+
 Il vescovo Giovanni non è soltanto un guelfo e una spia dei Visconti, ma si è rivelato essere anche un Cacciatore di Vampiri.
 
 Ora, le parole di Eleonora durante il nostro ultimo incontro, tre anni fa, acquistano un significato più chiaro:
