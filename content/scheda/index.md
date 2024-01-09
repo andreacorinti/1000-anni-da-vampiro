@@ -7,6 +7,8 @@ eleventyNavigation:
 
 # Gregorio Rusca
 
+aka: Leonardo di Famagosta
+
 ## Ricordi
 
 ### I Ricordo 
@@ -23,7 +25,7 @@ eleventyNavigation:
 *
 *
 ### IV Ricordo
-* 
+* Nel 1344 cambio identità: il mio nuovo nome è Leonardo di Famagosta.
 *
 *
 ### V Ricordo
@@ -44,7 +46,7 @@ eleventyNavigation:
 * ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
 * **Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.
-* ~~**Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca. ~~
+* ~~**Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca.~~
 * ~~**Castel Carnasino**: la mia casa, il mio rifugio.~~
 
 ## Personaggi
@@ -86,5 +88,12 @@ eleventyNavigation:
 *
 *
 
+## Ritratti
+
 ![gregorio-rusca](/img/gregorio-rusca.jpeg)
-_nota: immagine generata con l'IA_
+
+Gregorio nel 1176.
+
+![gregorio-genova](/img/gregorio-genova.jpeg)
+
+Gregorio nel 1339 (Leonardo di Famagosta).
