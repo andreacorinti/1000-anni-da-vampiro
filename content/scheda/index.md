@@ -39,7 +39,7 @@ eleventyNavigation:
 
 ## Risorse
 
-* **Castel Carnasino**: la mia casa. Al momento ci vivono Isabella e Giovanni, assieme a vari parenti e servitori.
+* **Castel Carnasino**: la mia casa, il mio rifugio.
 * **Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.
 * ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
