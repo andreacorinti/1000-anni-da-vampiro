@@ -29,7 +29,7 @@ aka: Leonardo di Famagosta
 * Nel 1372 incontro e uccido Berengario, sopravvissuto al passare dei secoli grazie alla stregoneria.
 *
 ### V Ricordo
-* 
+* Nel 1473 stipulo un legame di sangue con Caterina Corner e la sua famiglia.
 *
 *
 
@@ -38,6 +38,7 @@ aka: Leonardo di Famagosta
 * ☑ Sono addestrato nel combattimento cavalleresco
 * ☑ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
 * ☐ Sono un abile scalatore: le montagne sono il mio ambiente naturale
+* ☐ Il Legame di Sangue con i Corner, stipulato con Caterina di Cipro nel 1473. Mi garantisce una notevole influenza a Venezia.  
 
 ## Risorse
 
@@ -51,7 +52,8 @@ aka: Leonardo di Famagosta
 
 ## Personaggi
 
-* **Simone Boccanegra**: Il mio ghoul, Doge di Genova.
+* **Caterina Corner**: Regina di Cipro, prigioniera del mio legame di sangue.  
+* ~~**Simone Boccanegra**: Il mio ghoul, Doge di Genova.~~
 * ~~**Loterio Rusca**: capo della mia progenie mortale, nato nel 1225.~~
 * ~~**Giovanni degli Avvocati**: Vescovo di Como, rivale politico di Loterio e Cacciatore di Vampiri.~~
 * ~~**Isabella Odescalchi in Rusca**: mia moglie. Nonostante il nostro sia stato un matrimonio combinato, le voglio molto bene.~~
