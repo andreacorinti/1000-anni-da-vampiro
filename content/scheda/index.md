@@ -17,8 +17,8 @@ aka: Leonardo di Famagosta
 * 
 
 ### II Ricordo
-* Il matrimonio con Isabella. È stato un evento più politico che romantico, ma comunque un ricordo felice.
-* La nascita di Giovanni: il momento più bello della mia vita.
+*
+*
 *
 ### III Ricordo
 * Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.
@@ -86,8 +86,8 @@ aka: Leonardo di Famagosta
 * Isabella ha scoperto la mia condizione di vampiro.
 * Ho incontrato Berengario, un trovatore che sembra saperne molto sui vampiri.
 ### IV Ricordo
-* 
-*
+* Il matrimonio con Isabella. È stato un evento più politico che romantico, ma comunque un ricordo felice.
+* La nascita di Giovanni: il momento più bello della mia vita.
 *
 
 ## Ritratti
