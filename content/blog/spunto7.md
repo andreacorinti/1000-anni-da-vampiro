@@ -4,7 +4,7 @@ date: 1344-03-16
 draft: false
 ---
 
-☒ _Tiro: 2 (D10 = 4 D6 = 2)_
+☒ _Tiro: 2 (D10 = 8 D6 = 2)_
 
 ## Tavola 24, spunto 1
 

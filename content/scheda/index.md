@@ -26,16 +26,16 @@ aka: Leonardo di Famagosta
 *
 ### IV Ricordo
 * Nel 1344 cambio identità: il mio nuovo nome è Leonardo di Famagosta.
-*
+* Nel 1372 incontro e uccido Berengario, sopravvissuto al passare dei secoli grazie alla stregoneria.
 *
 ### V Ricordo
-* L'evasione da Malastalla grazie all'incontro con Eleonora, la creatura della notte che mi ha reso un vampiro.
-* Isabella ha scoperto la mia condizione di vampiro.
-* Ho incontrato Berengario, un trovatore che sembra saperne molto sui vampiri.
+* 
+*
+*
 
 ## Abilità
 
-* ☐ Sono addestrato nel combattimento cavalleresco
+* ☑ Sono addestrato nel combattimento cavalleresco
 * ☑ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
 * ☐ Sono un abile scalatore: le montagne sono il mio ambiente naturale
 
@@ -80,9 +80,9 @@ aka: Leonardo di Famagosta
 * Nel 1291, con la morte di Loterio, il vescovo conquista Como. Decido di abbandonare la città.
 *
 ### III Ricordo
-* 
-*
-*
+* L'evasione da Malastalla grazie all'incontro con Eleonora, la creatura della notte che mi ha reso un vampiro.
+* Isabella ha scoperto la mia condizione di vampiro.
+* Ho incontrato Berengario, un trovatore che sembra saperne molto sui vampiri.
 ### IV Ricordo
 * 
 *

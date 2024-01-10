@@ -12,6 +12,8 @@ draft: false
 
 Nel crepuscolo, Isabella mi ha guidato verso la presenza di un ospite singolare: Berengario, un trovatore proveniente da Basilea.
 
+![berengario](/img/berengario.jpeg)
+
 Il suo volto, un enigma velato, ha destato in me ricordi di Eleonora con un solo sguardo.
 
 "Maestro, nulla bramo di più che esservi di servizio," mi ha rivelato con una voce melliflua, rivelando un'abilità nell'arte del leccaculismo navigato. "So _chi_ siete, e sono stato istruito sulle vostre... abitudini."
