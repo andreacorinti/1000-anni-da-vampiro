@@ -7,19 +7,23 @@ eleventyNavigation:
 
 # Gregorio Rusca
 
-aka: Leonardo di Famagosta
+aka: 
+* Leonardo di Famagosta
+* Paolo Vedelago
 
 ## Ricordi
 
 ### I Ricordo 
-* Cento anni dopo la mia trasformazione, ho rivisto Eleonora.
 * 
 * 
+*
+* ~~Nel 1279 ho rivisto Eleonora.~~
 
 ### II Ricordo
+* Nel 1526 sono costretto a lasciare Venezia da alcuni Cacciatori e m'imbarco con Sebastiano Caboto verso il nuovo mondo: il mio nuovo nome è Paolo Vedelago.
+* Nel 1615 alcuni Gesuiti mi costringono nuovamente alla fuga.
 *
-*
-*
+
 ### III Ricordo
 * Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.
 *
@@ -30,36 +34,37 @@ aka: Leonardo di Famagosta
 *
 ### V Ricordo
 * Nel 1473 stipulo un legame di sangue con Caterina Corner e la sua famiglia.
-*
+* Nel 1489 lascio Cipro e seguo Caterina a Venezia.
 *
 
 ## Abilità
 
-* ☑ Sono addestrato nel combattimento cavalleresco
+* ~~☑ Sono addestrato nel combattimento cavalleresco~~
 * ☑ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
 * ☐ Sono un abile scalatore: le montagne sono il mio ambiente naturale
 * ☐ Il Legame di Sangue con i Corner, stipulato con Caterina di Cipro nel 1473. Mi garantisce una notevole influenza a Venezia.  
 
 ## Risorse
 
-* **Palazzo in Via delle Vigne**: il mio rifugio Genovese dal 1291
 * **Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
-* **Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.
+* ~~**Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.~~
+* ~~**Palazzo in Via delle Vigne**: il mio rifugio Genovese dal 1291~~
 * ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * ~~**Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca.~~
 * ~~**Castel Carnasino**: la mia casa, il mio rifugio.~~
 
 ## Personaggi
 
-* **Caterina Corner**: Regina di Cipro, prigioniera del mio legame di sangue.  
+* **Tulio:** gesuita di Còrdoba
+* **Miguel:** gesuita di Còrdoba
+* ~~**Caterina Corner**: Regina di Cipro, prigioniera del mio legame di sangue.~~  
 * ~~**Simone Boccanegra**: Il mio ghoul, Doge di Genova.~~
 * ~~**Loterio Rusca**: capo della mia progenie mortale, nato nel 1225.~~
 * ~~**Giovanni degli Avvocati**: Vescovo di Como, rivale politico di Loterio e Cacciatore di Vampiri.~~
 * ~~**Isabella Odescalchi in Rusca**: mia moglie. Nonostante il nostro sia stato un matrimonio combinato, le voglio molto bene.~~
 * ~~**Giovanni Rusca**: mio figlio, nato nel 1166. Somiglia a sua madre, e sicuramente diventerà un degno erede.~~
 * ~~**Bernardo Rusca**: mio padre, podestà di Como.~~
-* ~~**Berengario**: un mio servitore che conosce la mia condizione vampirica. Credo sia in qualche modo collegato ad Eleonora.~~
 
 ### Immortali
 
@@ -100,3 +105,7 @@ Gregorio nel 1176.
 ![gregorio-genova](/img/gregorio-genova.jpeg)
 
 Gregorio nel 1339 (Leonardo di Famagosta).
+
+![gregorio-conquistador](/img/gregorio-conquistador.jpeg)
+
+Gregorio nel 1528 (Paolo Vedelago)
