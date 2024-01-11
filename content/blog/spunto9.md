@@ -42,7 +42,7 @@ Annuisco, prima di congendarmi da lei con un bacio.
 
 Resto per un po' a contemplare Caterina (che nel frattempo si è addormentata singhiozzando le sue omelie) e intanto mi ritrovo a rimuginare mentre appunto queste righe sul mio vecchio diario.
 
-Ho quasi trecento anni, e da molto ho compreso come i miei ricordi risultino sempre più labili e lontani.
+Ho più di trecento anni, e da molto ho compreso come i miei ricordi risultino sempre più labili e lontani.
 
 Quando sfoglio le prime pagine che ho scritto, leggo del mio passato di cavaliere, lo stesso che Eleonora non ha mancato di sottolineare poco fa.
 

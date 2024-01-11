@@ -44,9 +44,9 @@ aka: Leonardo di Famagosta
 
 * **Palazzo in Via delle Vigne**: il mio rifugio Genovese dal 1291
 * **Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.
-* ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
 * **Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.
+* ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
 * ~~**Stirpe di Servitori**: ramo di discendenti della mia vecchia famiglia mortale, i Rusca.~~
 * ~~**Castel Carnasino**: la mia casa, il mio rifugio.~~
 
@@ -63,7 +63,8 @@ aka: Leonardo di Famagosta
 
 ### Immortali
 
-* **Eleonora**. La donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.  
+* **Eleonora**. La donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.
+* ~~**Berengario**: trovatore svizzero dedito alle arti arcane, fu un mio servitore. Riuscì a sopravvivere come non-morto fino al 1372, quando gli ho donato la morte ultima.~~
 
 ## Marchi
 
