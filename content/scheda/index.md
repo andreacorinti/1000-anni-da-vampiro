@@ -25,9 +25,11 @@ aka:
 *
 
 ### III Ricordo
-* Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.
+* Nel 1630 incontro a Milano Ottavio De Berengari e scopro di essere una sorta di divinità per i discendenti del mio vecchio servitore. 
 *
 *
+* ~~Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.~~
+
 ### IV Ricordo
 * Nel 1344 cambio identità: il mio nuovo nome è Leonardo di Famagosta.
 * Nel 1372 incontro e uccido Berengario, sopravvissuto al passare dei secoli grazie alla stregoneria.
@@ -41,7 +43,7 @@ aka:
 
 * ~~☑ Sono addestrato nel combattimento cavalleresco~~
 * ☑ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
-* ☐ Sono un abile scalatore: le montagne sono il mio ambiente naturale
+* ☑ Sono un abile scalatore: le montagne sono il mio ambiente naturale
 * ☐ Il Legame di Sangue con i Corner, stipulato con Caterina di Cipro nel 1473. Mi garantisce una notevole influenza a Venezia.  
 
 ## Risorse
@@ -56,6 +58,7 @@ aka:
 
 ## Personaggi
 
+* **Ottavio de Berengari:** cultista discendente di Berengario, venera la figura di Gregorio Rusca.
 * **Tulio:** gesuita di Còrdoba
 * **Miguel:** gesuita di Còrdoba
 * ~~**Caterina Corner**: Regina di Cipro, prigioniera del mio legame di sangue.~~  
@@ -68,7 +71,7 @@ aka:
 
 ### Immortali
 
-* **Eleonora**: la donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.
+* **Eleonora**: la donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro nel 1176.
 * **Sara de Villarroel**: la mia prima infante, creata nel 1617. Da Mortale, fu una mia prigioniera appartenente a una nobile famiglia collegata coi gesuiti di Còrdoba e il Vicereame del Rio de la Plata.
 * ~~**Berengario**: trovatore svizzero dedito alle arti arcane, fu un mio servitore. Riuscì a sopravvivere come non-morto fino al 1372, quando gli ho donato la morte ultima.~~
 
