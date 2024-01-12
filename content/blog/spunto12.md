@@ -16,7 +16,7 @@ Dovrei esserci abituato, ma abbandonare Córdoba è stato particolarmente penoso
 
 Dicevo, comunque...nulla è destinato a durare. Immagino valga anche per me.
 
-Tulio e Miguel, i due gesuiti che hanno fatto irruzione nella mia cripta, sono andati molto vicini a portarmi alla Morte Ultima. 
+Tulio e Miguel, i due gesuiti che hanno fatto irruzione nella mia cripta, sono andati molto vicini a portarmi alla Morte Ultima, portandosi via Sara, la mia "Mortale di compagnia" da queste parti. 
 
 L'antica Fascia d'Isabella in qualche modo mi ha protetto, e ora l'ho persa per sempre, rendendo molto più complicato gestire la mia cicatrice perennemente sanguinante. 
 

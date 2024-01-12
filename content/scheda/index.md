@@ -14,7 +14,7 @@ aka:
 ## Ricordi
 
 ### I Ricordo 
-* 
+* Nel 1617 ho creato la mia prima infante: Sara de Villarroel.
 * 
 *
 * ~~Nel 1279 ho rivisto Eleonora.~~
@@ -68,7 +68,8 @@ aka:
 
 ### Immortali
 
-* **Eleonora**. La donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.
+* **Eleonora**: la donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro.
+* **Sara de Villarroel**: la mia prima infante, creata nel 1617. Da Mortale, fu una mia prigioniera appartenente a una nobile famiglia collegata coi gesuiti di Còrdoba e il Vicereame del Rio de la Plata.
 * ~~**Berengario**: trovatore svizzero dedito alle arti arcane, fu un mio servitore. Riuscì a sopravvivere come non-morto fino al 1372, quando gli ho donato la morte ultima.~~
 
 ## Marchi
