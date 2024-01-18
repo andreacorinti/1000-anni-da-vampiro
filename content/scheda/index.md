@@ -10,13 +10,14 @@ eleventyNavigation:
 aka: 
 * Leonardo di Famagosta
 * Paolo Vedelago
+* Paul du Lac
 
 ## Ricordi
 
 ### I Ricordo 
 * Nel 1617 ho creato la mia prima infante: Sara de Villarroel.
-* 
-*
+* Nel 1747 mi innamoro di Madame de Pompadour.
+* Nel capodanno del 1800 vivo in un manicomio di Milano, quando Sara mi torna a fare visita. 
 * ~~Nel 1279 ho rivisto Eleonora.~~
 
 ### II Ricordo
@@ -26,8 +27,8 @@ aka:
 
 ### III Ricordo
 * Nel 1630 incontro a Milano Ottavio De Berengari e scopro di essere una sorta di divinità per i discendenti del mio vecchio servitore. 
-*
-*
+* Aiuto Ottavio a sgominare la coterie di Karl, vampiro tedesco responsabile della Peste del 1630. In cambio, Ottavio utilizza i suoi poteri arcani per colpire i gesuiti.
+* Nel 1796 lascio che l'esercito di Napoleone massacri quel che resta della stirpe di Berengario
 * ~~Faccio da tutore a Simone Boccanegra, che grazie alla mia guida diventerà il primo Doge della Repubblica di Genova.~~
 
 ### IV Ricordo
@@ -35,21 +36,26 @@ aka:
 * Nel 1372 incontro e uccido Berengario, sopravvissuto al passare dei secoli grazie alla stregoneria.
 *
 ### V Ricordo
-* Nel 1473 stipulo un legame di sangue con Caterina Corner e la sua famiglia.
-* Nel 1489 lascio Cipro e seguo Caterina a Venezia.
+* Nel 1793 assisto alla formazione del Regime del Terrore.
+* 
 *
+* ~~Nel 1473 stipulo un legame di sangue con Caterina Corner e la sua famiglia.~~
+* ~~Nel 1489 lascio Cipro e seguo Caterina a Venezia.~~
+
 
 ## Abilità
 
 * ~~☑ Sono addestrato nel combattimento cavalleresco~~
-* ☑ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
+* ☐ Conosco la retorica e posso sostenere discussioni in latino, italiano e francese
 * ☑ Sono un abile scalatore: le montagne sono il mio ambiente naturale
-* ☐ Il Legame di Sangue con i Corner, stipulato con Caterina di Cipro nel 1473. Mi garantisce una notevole influenza a Venezia.  
+* ☑ Il Legame di Sangue con i Corner, stipulato con Caterina di Cipro nel 1473. Mi garantisce una notevole influenza a Venezia.  
 
 ## Risorse
 
-* **Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.
+* **Pia casa della Senavra:** manicomio di Milano, mio rifugio dalla fine del '700.
+* **Casa in North Square, Boston:** piccola casa di Boston dove ho risieduto dal 1800.
 * **Diario**: uno splendido tomo costato molto caro realizzato attorno al 1176.
+* ~~**Spada Gotica**: realizzata dai migliori fabbri elvetici ([ref](https://www.pananti.com/it/asta-0140/spada-gotica-61330-61278)), regalo di nozze di mio padre.~~
 * ~~**Fascia d'Isabella**: una fascia cucita da Isabella e bendetta da un monaco che riesce a nascondere la mia cicatrice.~~
 * ~~**Palazzo in Via delle Vigne**: il mio rifugio Genovese dal 1291~~
 * ~~**Cascina e terreni**: alcuni possedimenti nei pressi del [Lago di Alserio](https://it.wikipedia.org/wiki/Lago_di_Alserio).~~
@@ -58,9 +64,10 @@ aka:
 
 ## Personaggi
 
-* **Ottavio de Berengari:** cultista discendente di Berengario, venera la figura di Gregorio Rusca.
-* **Tulio:** gesuita di Còrdoba
-* **Miguel:** gesuita di Còrdoba
+* ~~**Jeanne-Antoinette Poisson**: meglio nota come Madame de Pompadur. Fu una mia amante attorno il XVIII secolo.~~
+* ~~**Ottavio de Berengari:** cultista discendente di Berengario, venera la figura di Gregorio Rusca.~~
+* ~~**Tulio:** gesuita di Còrdoba~~
+* ~~**Miguel:** gesuita di Còrdoba, ucciso da un rituale di Ottavio~~
 * ~~**Caterina Corner**: Regina di Cipro, prigioniera del mio legame di sangue.~~  
 * ~~**Simone Boccanegra**: Il mio ghoul, Doge di Genova.~~
 * ~~**Loterio Rusca**: capo della mia progenie mortale, nato nel 1225.~~
@@ -73,6 +80,7 @@ aka:
 
 * **Eleonora**: la donna più bella che io abbia mai visto: mi ha aiutato a fuggire dalla prigionia e sedotto in una notte, rendendomi un vampiro nel 1176.
 * **Sara de Villarroel**: la mia prima infante, creata nel 1617. Da Mortale, fu una mia prigioniera appartenente a una nobile famiglia collegata coi gesuiti di Còrdoba e il Vicereame del Rio de la Plata.
+* ~~**Karl**: vampiro tedesco responsabile della Peste del 1630. Ho contribuito alla sua distruzione, in Italia.~~
 * ~~**Berengario**: trovatore svizzero dedito alle arti arcane, fu un mio servitore. Riuscì a sopravvivere come non-morto fino al 1372, quando gli ho donato la morte ultima.~~
 
 ## Marchi
